@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,azure,aws,grafana,vmware,gitlab,github,ansible,redhat,ubuntu,linux,bash,python,vim,powershell,docker,gmail,gemini,mysql,postgresql,mssql,php,perl,terraform,windows,artifactory,prometheus,kubernetes,nginx&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,azure,aws,grafana,vmware,gitlab,github,ansible,redhat,ubuntu,linux,bash,python,vim,powershell,docker,gmail,ai,mysql,postgresql,mssql,php,perl,terraform,windows,artifactory,prometheus,kubernetes,nginx&perline=3)](https://skillicons.dev)
